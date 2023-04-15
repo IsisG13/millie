@@ -1,0 +1,72 @@
+body {
+    background: #f8e7dd url('imagens/fundo.jpg');
+    font: 16px Arial, Helvetica, sans-serif;
+    /* margin-left: 370px; */
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1 {
+    color: #ff0077;
+    font-size: 1.2em;
+} 
+
+.etc {
+    text-align: center;
+}
+
+.pandora {
+    width: 750px;
+    height: 500px;
+    border: 10px solid #ff0077;
+}
+
+.vogue {
+    width: 750px;
+    height: 500px;
+    border: 10px solid #ff0077;
+}
+
+.bio {
+    max-width: 100%;
+    height: 500px;
+    border: 10px solid #ff0077;
+}
+
+.moncler {
+    border: 10px solid #ff0077;
+}
+
+.millie {
+    width: 500px;
+    height: 500px;
+    border: 10px solid #ff0077;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #ffaaa6;
+    padding: 18px;
+    width: 1165px;
+}
+
+#conteudo {
+    background: #ff9792;
+    padding: 10px;
+    width: 1180px;
+
+}
+
+
+#rodape {
+    text-align: center;
+    margin-right:300px;
+}
